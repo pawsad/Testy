@@ -1,4 +1,4 @@
 test file created on the working branch
-chnge1
+change1
 change2
 
